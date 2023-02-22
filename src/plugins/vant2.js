@@ -1,0 +1,65 @@
+import Vue from "vue";
+import "vant/lib/index.css";
+import {
+  Swipe,
+  SwipeItem,
+  Tab,
+  Tabs,
+  Sku,
+  GoodsAction,
+  GoodsActionIcon,
+  GoodsActionButton,
+  Stepper,
+  ActionSheet,
+  RadioGroup,
+  Radio,
+  Button,
+  CellGroup,
+  Cell,
+  Overlay,
+  Card,
+  Tag,
+  SwipeCell,
+  Checkbox,
+  CheckboxGroup,
+  Dialog,
+  Empty,
+  Tabbar,
+  TabbarItem,
+  CountDown,
+  Step,
+  Steps,
+  Form,
+  Field,
+} from "vant";
+Vue.use(Swipe);
+Vue.use(SwipeItem);
+Vue.use(Tab);
+Vue.use(Tabs);
+Vue.use(Sku);
+Vue.use(GoodsAction);
+Vue.use(GoodsActionButton);
+Vue.use(GoodsActionIcon);
+Vue.use(Stepper);
+Vue.use(ActionSheet);
+Vue.use(RadioGroup);
+Vue.use(Radio);
+Vue.use(Button);
+Vue.use(CellGroup);
+Vue.use(Cell);
+Vue.use(Overlay);
+Vue.use(Card);
+Vue.use(Tag);
+Vue.use(SwipeCell);
+Vue.use(Checkbox);
+Vue.use(CheckboxGroup);
+Vue.use(Dialog);
+Vue.use(Empty);
+Vue.use(Tabbar);
+Vue.use(TabbarItem);
+Vue.use(CountDown);
+Vue.use(Step);
+Vue.use(Steps);
+Vue.use(Field);
+Vue.use(Form);
+Vue.component("v-dialog", Dialog);

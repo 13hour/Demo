@@ -1,0 +1,46 @@
+{
+  "ponds": [
+    {
+      "id": 1,
+      "name": "鲤鱼塘",
+      "coverImg": "http://0042.cxycoder.com/web/uploads/mall1/20211216/26396b1d635eb636cc955b22f607188f.png",
+      "desc": "鲤鱼体呈纺锤形，青黄色，呼吸时鲷盖起伏均匀，生命力旺盛。稍差的鱼游在水的上层鱼嘴贴近水面，尾部下垂。",
+      "place_fill": [1, 78, 67, 40],
+      "places": 80,
+      "price": 110.00,
+      "type": "paid",
+      "time": "",
+      "message": "",
+      "properties": ["鲤鱼"],
+      "flag": 0
+    },
+    {
+      "id": 2,
+      "name": "综合塘",
+      "coverImg": "http://0042.cxycoder.com/web/uploads/mall1/20211216/0d256e6b12584b681461965cb7f48836.png",
+      "desc": "草鱼 大头鲢鳙 黑皖 罗非 鲫鱼 广大垂钓爱好者喜欢钓鱼的地点，一些是开放性的商业作钓鱼塘，一些是经济型养殖鱼塘。",
+      "place_fill": [1, 78, 17, 48, 84, 34],
+      "places": 94,
+      "price": 150.00,
+      "type": "empty",
+      "time": "",
+      "message": "",
+      "properties": ["草鱼", "大头鲢鳙", "黑皖", "罗非", "鲫鱼"],
+      "flag": 0
+    },
+    {
+      "id": 3,
+      "name": "鲫鱼塘",
+      "coverImg": "https://dyt.52kfw.cn/web/uploads/mall1/20220822/69cbbdfba1ba747c2e3198e581967502.png",
+      "desc": "要说在各种淡水鱼种，鲫鱼算是一种比较受欢迎的鱼类了，价格不是很高，肉质还非常细致软嫩，味道也非常好，还有身体需要的很多物质。也正是因为这样，这种东西是有一定的药性的，对于孕妇还有生产完之后的女子要是多吃，对身体是有喝多好处的。",
+      "place_fill": [13, 24, 56, 35, 11, 34, 40],
+      "places": 50,
+      "price": 50.00,
+      "type": "empty",
+      "time": "",
+      "message": "",
+      "properties": ["鲫鱼"],
+      "flag": 1
+    }
+  ]
+}
